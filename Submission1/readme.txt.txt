@@ -2,7 +2,8 @@
 
 Link to unlisted youtube video:
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
+
 
 Submitter:
 22241151 Muhtasim Mahmud
